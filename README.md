@@ -1,0 +1,1 @@
+## Локальный файл для отправки на github.com https://github.com/akosnyrev/git_education.git
